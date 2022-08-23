@@ -13,27 +13,27 @@ const hotDrink = [
   {
     title: "Fresh mint tea",
     price: "$20",
-    tag: "bottle | 400ml"
+    tag: "bottle | 400ml",
   },
   {
     title: "Green tea",
     price: "$16",
-    tag: "bottle | 400ml"
+    tag: "bottle | 400ml",
   },
   {
     title: "Tea",
     price: "$10",
-    tag: "bottle | 400ml"
+    tag: "bottle | 400ml",
   },
   {
     title: "Capatcheno",
     price: "$31",
-    tag: "bottle | 400ml"
+    tag: "bottle | 400ml",
   },
   {
     title: "white coffee",
     price: "$26",
-    tag: "bottle | 400ml"
+    tag: "bottle | 400ml",
   },
 ];
 

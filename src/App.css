@@ -37,35 +37,14 @@ body::-webkit-scrollbar-thumb {
   background-color: var(--color-golden); /* color of the scroll thumb */
   border-radius: 20px; /* roundness of the scroll thumb */
 }
-
-
+body {
+  overflow-x: hidden !important ;
+}
 
 .slide-bottom {
   -webkit-animation: slide-bottom 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
   animation: slide-bottom 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
 }
-
-/* @-webkit-keyframes slide-bottom {
-  0% {
-    -webkit-transform: translateY(-25%);
-    transform: translateY(-25%);
-  }
-  100% {
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-  }
-}
-
-@keyframes slide-bottom {
-  0% {
-    -webkit-transform: translateY(-25%);
-    transform: translateY(-25%);
-  }
-  100% {
-    -webkit-transform: translateY(0);
-    transform: translateY(0);
-  }
-} */
 
 .section__padding {
   padding: 4rem 6rem;
@@ -86,7 +65,7 @@ body::-webkit-scrollbar-thumb {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  min-height: 100vh;
+  min-height: 100hv;
 }
 
 .app__wrapper_info {
@@ -112,8 +91,9 @@ body::-webkit-scrollbar-thumb {
 }
 
 .app__wrapper_img img {
-  width: 80%;
+  width: 70%;
 }
+
 .custom_button {
   background-color: var(--color-crimson);
   color: var(--color-black);
@@ -133,12 +113,16 @@ body::-webkit-scrollbar-thumb {
 .p__cormorant {
   font-family: var(--font-base);
   color: var(--color-white);
-  font-weight: 700;
+  font-weight: 600;
   letter-spacing: 0.04rem;
   text-transform: capitalize;
   line-height: 28px;
   font-size: 16px;
 }
+/* h1{
+  margin-right: auto;
+} */
+
 .p__opensans {
   font-family: var(--font-alt);
   color: var(--color-white);
@@ -152,9 +136,9 @@ body::-webkit-scrollbar-thumb {
 .headtext_cormorant {
   font-family: var(--font-base);
   color: var(--color-golden);
-  font-size: 64px;
+  font-size: 54px;
   line-height: 83.2px;
-  letter-spacing: 00.04em;
+  letter-spacing: 0.04em;
   text-transform: capitalize;
 }
 

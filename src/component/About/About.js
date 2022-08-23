@@ -30,7 +30,7 @@ const About = () => {
         </div>
 
         <div className="app__aboutus-content_history">
-          <h1 className="headtext_cormorant">Our History </h1>
+          <h1 className="headtext_cormorant" >Our History </h1>
           <img src={images.spoon} alt="spoon  " className="spoon_img" />
           <p className="p__opensans">
             Lorem ipsum is placeholder text commonly used in the graphic,

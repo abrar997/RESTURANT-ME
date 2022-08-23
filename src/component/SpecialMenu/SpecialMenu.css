@@ -17,3 +17,53 @@
   align-items: center;
   flex-direction: row;
 }
+
+.app__specialMenu-menu_heading {
+  font-family: var(--font-base);
+  font-weight: 600;
+  font-size: 45px;
+  line-height: 58.5px;
+  letter-spacing: 0.04em;
+  color: var(--color-white);
+}
+
+.app__specialMenu-menu_juice {
+  flex: 1;
+  width: 100%;
+  flex-direction: column;
+}
+
+/********************************** Start Medai Query ******************/
+/* mobile Devices */
+@media screen and (max-width: 665px) {
+  .app__specialMenu-menu-img {
+    width: 60%;
+  }
+  .app__specialMenu-menu_heading {
+    font-size: 32px;
+    line-height: 48.5px;
+  }
+}
+/* tablet and mobile devices */
+@media screen and (max-width: 1150px) {
+  .app__specialMenu-menu {
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+  }
+  .app__specialMenu-menu-img {
+    margin: 3rem 0;
+  }
+}
+
+@media screen and (min-width: 2000px) {
+  .app__specialMenu-menu-img {
+    width: 100%;
+  }
+  .app__specialMenu-menu_heading {
+    font-size: 35px;
+    line-height: 48.5px;
+  }
+}
+
+/********************************** End Medai Query ******************/
