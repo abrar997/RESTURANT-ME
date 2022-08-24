@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/RESTURANT-ME/static/css/main.2a62d74b.css",
+    "main.js": "/RESTURANT-ME/static/js/main.d51c66a6.js",
+    "static/media/bg.png": "/RESTURANT-ME/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/RESTURANT-ME/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/RESTURANT-ME/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/RESTURANT-ME/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/chef.png": "/RESTURANT-ME/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/meal.mp4": "/RESTURANT-ME/static/media/meal.081744ff15881969c70e.mp4",
+    "static/media/gallery04.png": "/RESTURANT-ME/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/RESTURANT-ME/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/RESTURANT-ME/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/RESTURANT-ME/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/RESTURANT-ME/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/RESTURANT-ME/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/menu.png": "/RESTURANT-ME/static/media/menu.2679394b8f9c8d67d686.png",
+    "static/media/gericht.png": "/RESTURANT-ME/static/media/gericht.3d0195b44a99dffb2e4f.png",
+    "static/media/logo.png": "/RESTURANT-ME/static/media/logo.bb6fd8b0d8a058331f15.png",
+    "static/media/G.png": "/RESTURANT-ME/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/award02.png": "/RESTURANT-ME/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/RESTURANT-ME/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/RESTURANT-ME/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/RESTURANT-ME/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/RESTURANT-ME/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/RESTURANT-ME/index.html",
+    "main.2a62d74b.css.map": "/RESTURANT-ME/static/css/main.2a62d74b.css.map",
+    "main.d51c66a6.js.map": "/RESTURANT-ME/static/js/main.d51c66a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a62d74b.css",
+    "static/js/main.d51c66a6.js"
+  ]
+}
