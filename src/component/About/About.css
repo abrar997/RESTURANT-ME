@@ -55,6 +55,11 @@
 
 /* Small  Screen */
 @media screen and (max-width: 650px) {
+  .app__aboutus{
+    min-width: 100%;
+    padding: 2rem 4rem;
+
+  }
   .app__aboutus-overlay img {
     width: 80%;
     height: 320px;

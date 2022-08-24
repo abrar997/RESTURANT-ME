@@ -20,7 +20,7 @@ const Laurels = () => {
   };
   
   return (
-    <div className="app__laurels app__bg app__wrapper section__padding ">
+    <div className="app__laurels app__bg app__wrapper section__padding " id='awards'>
       <div className="app__wrapper_info">
         <SubHeading title="Awards & recognation" />
         <h1 className="headtext_cormorant" style={{ marginRight: "auto" }}>

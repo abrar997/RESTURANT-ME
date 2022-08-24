@@ -37,9 +37,9 @@ body::-webkit-scrollbar-thumb {
   background-color: var(--color-golden); /* color of the scroll thumb */
   border-radius: 20px; /* roundness of the scroll thumb */
 }
-body {
+/* body {
   overflow-x: hidden !important ;
-}
+} */
 
 .slide-bottom {
   -webkit-animation: slide-bottom 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
@@ -93,7 +93,9 @@ body {
 .app__wrapper_img img {
   width: 70%;
 }
-
+.app__wrapper-content {
+  margin-right: auto;
+}
 .custom_button {
   background-color: var(--color-crimson);
   color: var(--color-black);

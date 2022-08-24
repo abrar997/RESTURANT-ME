@@ -18,7 +18,9 @@ const App = () => {
       <Navbar />
       <Header />
       <About />
+      {/* problem of small devices here in special menu don't forget it  */}
       <SpecialMenu />
+      {/* -------------------------------------------------------------- */}
       <Chef />
       <Intro />
       <Laurels />

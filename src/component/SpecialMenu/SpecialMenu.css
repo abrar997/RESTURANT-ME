@@ -36,6 +36,10 @@
 /********************************** Start Medai Query ******************/
 /* mobile Devices */
 @media screen and (max-width: 665px) {
+  .app__specialMenu {
+    min-width: 100%;
+    font-size: small;
+  }
   .app__specialMenu-menu-img {
     width: 60%;
   }
@@ -56,6 +60,14 @@
   }
 }
 
+@media screen and (max-width: 900px) {
+  .app__specialMenu {
+    width: 100%;
+  }
+  .app__specialMenu-menu_img-img {
+    width: 100%;
+  }
+}
 @media screen and (min-width: 2000px) {
   .app__specialMenu-menu-img {
     width: 100%;

@@ -10,3 +10,5 @@ export { default as FindUs } from "./FindUs/FindUs";
 export { default as Footer } from "./Footer/Footer";
 export { default as SubHeading } from "./SubHeading/SubHeading";
 export { default as MenuItem } from "./MenuItem/MenuItem";
+export { default as FooterOverlay } from "./Footer/FooterOverlay/FooterOverlay";
+export { default as NewsLetter } from "./Footer/NewsLetter/NewsLetter";

@@ -38,13 +38,15 @@
 /* small device (mobile) */
 @media screen and (min-width: 2000px) {
   .app__chef-sign img {
-      width: 370px;
+    width: 370px;
   }
 }
 
 @media screen and (max-width: 450px) {
   .app__chef-sign img {
-      width: 80%;
+    width: 80%;
+  }
+  .app__chef-content {
+    min-width: 100%;
   }
 }
-

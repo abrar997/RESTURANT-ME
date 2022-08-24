@@ -24,8 +24,9 @@ const SpecialMenu = () => {
         </div>
 
         <div className="app__specialMenu-menu_img">
-          <img src={images.menu} />
+          <img src={images.menu} className='app__specialMenu-menu_img-img' />
         </div>
+
         <div className="app__specialMenu-menu_juice flex__center ">
           <p className="app__specialMenu-menu_heading">Fresh Juice </p>
           <div className="app__specialMenu-menu_items">

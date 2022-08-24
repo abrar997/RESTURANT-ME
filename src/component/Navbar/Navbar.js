@@ -6,7 +6,7 @@ import "./Navbar.css";
 const Navbar = () => {
 const [ToggleMenu,setToggleMenu] =React.useState(false)
   return (
-    <nav className="app__navbar">
+    <nav className="app__navbar ">
       <div className="app__navbar-logo">
         CODE/MU.
         <img src={images.logo} alt="app logo"  width={50} />
